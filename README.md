@@ -14,7 +14,7 @@ Curl it
     
 Party!
 
-
+![demo](doc/demo.gif)
 
 ## License
 
