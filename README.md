@@ -16,6 +16,9 @@ Party!
 
 ![demo](doc/demo.gif)
 
+## Thanks
+[hugomd](https://github.com/hugomd) for the inspiration with [parrot.live](https://github.com/hugomd/parrot.live)
+
 ## License
 
 Distributed under the MIT License, see LICENSE for the full text.
